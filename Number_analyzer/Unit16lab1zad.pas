@@ -1,0 +1,548 @@
+unit Unit16lab1zad;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls, ComCtrls, Buttons, sSkinManager;
+
+type
+  TForm1 = class(TForm)
+    PageControl1: TPageControl;
+    TabSheet1: TTabSheet;
+    GLabel: TLabel;
+    ALabel: TLabel;
+    Panel1: TPanel;
+    Memo1: TMemo;
+    GBar: TProgressBar;
+    ABar: TProgressBar;
+    BitBtn3: TBitBtn;
+    BitBtn4: TBitBtn;
+    Panel4: TPanel;
+    L0: TLabel;
+    L1: TLabel;
+    L2: TLabel;
+    L3: TLabel;
+    PB1: TProgressBar;
+    PB2: TProgressBar;
+    PB3: TProgressBar;
+    TabSheet2: TTabSheet;
+    PB4: TProgressBar;
+    PB5: TProgressBar;
+    PB6: TProgressBar;
+    PB7: TProgressBar;
+    PB8: TProgressBar;
+    L4: TLabel;
+    L5: TLabel;
+    L6: TLabel;
+    L7: TLabel;
+    L8: TLabel;
+    Panel2: TPanel;
+    Memo2: TMemo;
+    GBar2: TProgressBar;
+    ABar2: TProgressBar;
+    GLabel2: TLabel;
+    ALabel2: TLabel;
+    Panel3: TPanel;
+    PB22: TProgressBar;
+    PB11: TProgressBar;
+    PB33: TProgressBar;
+    Label3: TLabel;
+    L11: TLabel;
+    L22: TLabel;
+    L33: TLabel;
+    BitBtn1: TBitBtn;
+    BitBtn5: TBitBtn;
+    PB44: TProgressBar;
+    L44: TLabel;
+    PB55: TProgressBar;
+    L55: TLabel;
+    Bb23: TBitBtn;
+    BitBtn2: TBitBtn;
+    procedure BB1Click(Sender: TObject);
+    procedure BitBtn2Click(Sender: TObject);
+    procedure BitBtn1Click(Sender: TObject);
+    procedure BitBtn5Click(Sender: TObject);
+    procedure Bb23Click(Sender: TObject);
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  kol,kol2:integer;
+  strr,strr2:string;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.BB1Click(Sender: TObject);
+var
+   i,j:integer;
+   NewString:string;
+   i1:integer;
+   label m1;
+
+begin
+
+   m1:
+   strr:=InPutBox('Генерация','Введите количество генерируемых строк','');
+
+   If strr='' then
+   Begin
+   ShowMessage('Значение должно быть введено');
+   GoTo m1;
+   End;
+
+   For i1:=1 to length(strr) do
+   If not (strr[i1] in ['0'..'9']) then
+   Begin
+   ShowMessage('Ввод некорректного значения');
+   GoTo m1;
+   End;
+
+   kol:=StrToInt(strr);
+
+   Memo1.Lines.Clear;
+
+   GBar.Max:=kol;
+   GBar.Position:=0;
+   GBar.Step:=1;
+   GLabel.Caption:='00,00%';
+
+   L1.Caption:='2(00,0%)';
+   L2.Caption:='3(00,0%)';
+   L3.Caption:='4(00,0%)';
+   L4.Caption:='5(00,0%)';
+   L5.Caption:='6(00,0%)';
+   L6.Caption:='7(00,0%)';
+   L7.Caption:='8(00,0%)';
+   L8.Caption:='9(00,0%)';
+
+   L1.Refresh;
+   L2.Refresh;
+   L3.Refresh;
+   L4.Refresh;
+   L5.Refresh;
+   L6.Refresh;
+   L7.Refresh;
+   L8.Refresh;
+
+   ABar.Max:=kol;
+   ABar.Position:=0;
+   ABar.Step:=1;
+   ALabel.Caption:='00,00%';
+   ALabel.Refresh;
+
+   PB1.Max:=kol*16;
+   PB1.Position:=0;
+   PB1.Step:=1;
+
+
+   PB2.Max:=kol*16;
+   PB2.Position:=0;
+   PB2.Step:=1;
+
+
+   PB3.Max:=kol*16;
+   PB3.Position:=0;
+   PB3.Step:=1;
+
+   PB4.Max:=kol*16;
+   PB4.Position:=0;
+   PB4.Step:=1;
+
+   PB5.Max:=kol*16;
+   PB5.Position:=0;
+   PB5.Step:=1;
+
+
+   PB6.Max:=kol*16;
+   PB6.Position:=0;
+   PB6.Step:=1;
+
+
+   PB7.Max:=kol*16;
+   PB7.Position:=0;
+   PB7.Step:=1;
+
+   PB8.Max:=kol*16;
+   PB8.Position:=0;
+   PB8.Step:=1;
+
+
+
+   For i:=1 to kol do
+   Begin
+
+   NewString:='';
+
+   For j:=1 to 16 do
+   Begin
+   randomize;
+   NewString:=NewString+IntToStr(Random(90)+10)+' ';
+   End;
+
+   Memo1.Lines.Append(NewString);
+
+   GBar.StepIt;
+   GLabel.Caption:=FloatToStr(Round((i/kol*100)*100)/100)+'%';
+   GLabel.Refresh;
+
+   End;
+
+end;
+
+procedure TForm1.BitBtn2Click(Sender: TObject);
+var
+   i,j:integer;
+
+begin
+
+   ABar.Max:=kol;
+   ABar.Position:=0;
+   ABar.Step:=1;
+   ALabel.Caption:='00,00%';
+
+   PB1.Max:=kol*16;
+   PB1.Position:=0;
+   PB1.Step:=1;
+   L1.Caption:='2(00,0%)';
+
+   PB2.Max:=kol*16;
+   PB2.Position:=0;
+   PB2.Step:=1;
+   L2.Caption:='3(00,0%)';
+
+   PB3.Max:=kol*16;
+   PB3.Position:=0;
+   PB3.Step:=1;
+   L3.Caption:='4(00,0%)';
+
+   PB4.Max:=kol*16;
+   PB4.Position:=0;
+   PB4.Step:=1;
+   L4.Caption:='5(00,0%)';
+
+   PB5.Max:=kol*16;
+   PB5.Position:=0;
+   PB5.Step:=1;
+   L5.Caption:='6(00,0%)';
+
+   PB6.Max:=kol*16;
+   PB6.Position:=0;
+   PB6.Step:=1;
+   L6.Caption:='7(00,0%)';
+
+   PB7.Max:=kol*16;
+   PB7.Position:=0;
+   PB7.Step:=1;
+   L7.Caption:='8(00,0%)';
+
+   PB8.Max:=kol*16;
+   PB8.Position:=0;
+   PB8.Step:=1;
+   L8.Caption:='9(00,0%)';
+
+
+
+   For i:=0 to kol-1 do
+   Begin
+
+     For j:=1 to 16 do
+     Begin
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 2 =0 then
+     Begin
+     PB1.StepIt;
+     L1.Caption:='2('+FloatToStr(Round((PB1.Position/(kol*16)*100)*10)/10)+'%)';
+     L1.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 3 =0 then
+     Begin
+     PB2.StepIt;
+     L2.Caption:='3('+FloatToStr(Round((PB2.Position/(kol*16)*100)*10)/10)+'%)';
+     L2.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 4 =0 then
+     Begin
+     PB3.StepIt;
+     L3.Caption:='4('+FloatToStr(Round((PB3.Position/(kol*16)*100)*10)/10)+'%)';
+     L3.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 5 =0 then
+     Begin
+     PB4.StepIt;
+     L4.Caption:='5('+FloatToStr(Round((PB4.Position/(kol*16)*100)*10)/10)+'%)';
+     L4.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 6 =0 then
+     Begin
+     PB5.StepIt;
+     L5.Caption:='6('+FloatToStr(Round((PB5.Position/(kol*16)*100)*10)/10)+'%)';
+     L5.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 7 =0 then
+     Begin
+     PB6.StepIt;
+     L6.Caption:='7('+FloatToStr(Round((PB6.Position/(kol*16)*100)*10)/10)+'%)';
+     L6.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 8 =0 then
+     Begin
+     PB7.StepIt;
+     L7.Caption:='8('+FloatToStr(Round((PB7.Position/(kol*16)*100)*10)/10)+'%)';
+     L7.Refresh;
+     End;
+
+     If StrToInt(Copy(Memo1.Lines[i],j+2*(j-1),2)) mod 9 =0 then
+     Begin
+     PB8.StepIt;
+     L8.Caption:='9('+FloatToStr(Round((PB8.Position/(kol*16)*100)*10)/10)+'%)';
+     L8.Refresh;
+     End;
+
+
+
+     End;
+
+   Abar.StepIt;
+   ALabel.Caption:=FloatToStr(Round(((i+1)/kol*100)*100)/100)+'%';
+   ALabel.Refresh;
+
+   End;
+
+
+end;
+
+
+
+procedure TForm1.BitBtn1Click(Sender: TObject);
+var
+   i2,j2,cc,raz:integer;
+   NewString2:string;
+   i11:integer;
+   label m1;
+
+
+begin
+
+   m1:
+   strr2:=InPutBox('Генерация','Введите количество генерируемых строк','');
+
+   If strr2='' then
+   Begin
+   ShowMessage('Значение должно быть введено');
+   GoTo m1;
+   End;
+
+   For i11:=1 to length(strr2) do
+   If not (strr2[i11] in ['0'..'9']) then
+   Begin
+   ShowMessage('Ввод некорректного значения');
+   GoTo m1;
+   End;
+
+   kol2:=StrToInt(strr2);
+
+   Memo2.Lines.Clear;
+
+   GBar2.Max:=kol2;
+   GBar2.Position:=0;
+   GBar2.Step:=1;
+   GLabel2.Caption:='00,00%';
+
+
+   L11.Caption:='1(00,0%)';
+   L22.Caption:='2(00,0%)';
+   L33.Caption:='3(00,0%)';
+   L44.Caption:='0(00,0%)';
+   L55.Caption:='4(00,0%)';
+
+   L11.Refresh;
+   L22.Refresh;
+   L33.Refresh;
+   L44.Refresh;
+   L55.Refresh;
+
+
+   ABar2.Max:=kol2;
+   ABar2.Position:=0;
+   ABar2.Step:=1;
+   ALabel2.Caption:='00,00%';
+   ALabel2.Refresh;
+
+   PB11.Max:=kol2*9;
+   PB11.Position:=0;
+   PB11.Step:=1;
+
+
+   PB22.Max:=kol2*9;
+   PB22.Position:=0;
+   PB22.Step:=1;
+
+
+   PB33.Max:=kol2*9;
+   PB33.Position:=0;
+   PB33.Step:=1;
+
+   PB44.Max:=kol2*9;
+   PB44.Position:=0;
+   PB44.Step:=1;
+
+   PB55.Max:=kol2*9;
+   PB55.Position:=0;
+   PB55.Step:=1;
+
+   For i2:=1 to kol2 do
+   Begin
+
+   NewString2:='';
+
+   For j2:=1 to 9 do
+
+   Begin
+     For cc:=1 to 4 do
+     Begin
+
+     randomize;
+     raz:=random(2)+1;
+
+     If raz=1 then
+     NewString2:=NewString2+chr(Random(ord('c')-ord('a')+1)+ord('a'));
+
+     If raz=2 then
+     NewString2:=NewString2+IntToStr(Random(10));
+   End;
+
+   NewString2:=NewString2+' ';
+
+   End;
+
+   Memo2.Lines.Append(NewString2);
+
+   GBar2.StepIt;
+   GLabel2.Caption:=FloatToStr(Round((i2/kol2*100)*100)/100)+'%';
+   GLabel2.Refresh;
+
+   End;
+
+
+
+end;
+
+procedure TForm1.BitBtn5Click(Sender: TObject);
+var
+   i2,j2,hh,kolbukv:integer;
+   slovo:string;
+
+begin
+
+   ABar2.Max:=kol2;
+   ABar2.Position:=0;
+   ABar2.Step:=1;
+   ALabel2.Caption:='00,00%';
+
+   PB11.Max:=kol2*9;
+   PB11.Position:=0;
+   PB11.Step:=1;
+   L11.Caption:='1(00,0%)';
+
+   PB22.Max:=kol2*9;
+   PB22.Position:=0;
+   PB22.Step:=1;
+   L22.Caption:='2(00,0%)';
+
+   PB33.Max:=kol2*9;
+   PB33.Position:=0;
+   PB33.Step:=1;
+   L33.Caption:='3(00,0%)';
+
+   PB44.Max:=kol2*9;
+   PB44.Position:=0;
+   PB44.Step:=1;
+   L44.Caption:='0(00,0%)';
+
+   PB55.Max:=kol2*9;
+   PB55.Position:=0;
+   PB55.Step:=1;
+   L55.Caption:='4(00,0%)';
+
+   For i2:=0 to kol2-1 do
+   Begin
+
+     j2:=1;
+
+     Repeat
+     slovo:=Copy(Memo2.Lines[i2],j2,4);
+
+     kolbukv:=0;
+     For hh:=1 to 4 do
+     If (slovo[hh]='a') or (slovo[hh]='b') or (slovo[hh]='c') then
+     inc(kolbukv);
+
+     If kolbukv=1 then
+     Begin
+     PB11.StepIt;
+     L11.Caption:='1('+FloatToStr(Round((PB11.Position/(kol2*9)*100)*10)/10)+'%)';
+     L11.Refresh;
+     End;
+
+     If  (kolbukv=1) or(kolbukv=2) then
+     Begin
+     PB22.StepIt;
+     L22.Caption:='2('+FloatToStr(Round((PB22.Position/(kol2*9)*100)*10)/10)+'%)';
+     L22.Refresh;
+     End;
+
+     If (kolbukv=1) or(kolbukv=2)or (kolbukv=3) then
+     Begin
+     PB33.StepIt;
+     L33.Caption:='3('+FloatToStr(Round((PB33.Position/(kol2*9)*100)*10)/10)+'%)';
+     L33.Refresh;
+     End;
+
+     If kolbukv=0 then
+     Begin
+     PB44.StepIt;
+     L44.Caption:='0('+FloatToStr(Round((PB44.Position/(kol2*9)*100)*10)/10)+'%)';
+     L44.Refresh;
+     End;
+
+     If (kolbukv=1) or(kolbukv=2)or (kolbukv=3) or (kolbukv=4) then
+     Begin
+     PB55.StepIt;
+     L55.Caption:='4('+FloatToStr(Round((PB55.Position/(kol2*9)*100)*10)/10)+'%)';
+     L55.Refresh;
+     End;
+
+
+     j2:=j2+5;
+     Until j2>length(Memo2.Lines[i2]);
+
+     Abar2.StepIt;
+     ALabel2.Caption:=FloatToStr(Round(((i2+1)/kol2*100)*100)/100)+'%';
+     ALabel2.Refresh;
+
+   End;
+
+end;
+
+procedure TForm1.Bb23Click(Sender: TObject);
+begin
+
+   close;
+
+end;
+
+end.

@@ -1,0 +1,175 @@
+{\rtf1\ansi\ansicpg1251\deff0{\fonttbl{\f0\fnil\fcharset204 MS Sans Serif;}{\f1\fnil MS Sans Serif;}}
+{\colortbl ;\red68\green68\blue68;}
+\viewkind4\uc1\pard\cf1\lang1049\f0\fs16\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'c8\'e2\'e0\'ed\'ee\'e2 \'c4\'e5\'ed\'e8\'f1 \'c3\'e5\'ed\'ed\'e0\'e4\'fc\'e5\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 2
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 20000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 5000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 120000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 0 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 17.05.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 2:12:45
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 145000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'c8\'e2\'e0\'ed\'ee\'e2 \'c8\'e2\'e0\'ed \'c8\'e2\'e0\'ed\'ee\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 1
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 3
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 18000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 6000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 180000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 60000 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 17.05.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 2:13:08
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 264000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'d8\'f3\'ec\'e8\'eb\'ee\'e2\'e0 \'c5\'eb\'e5\'ed\'e0 \'c0\'eb\'e5\'ea\'f1\'e5\'e5\'e2\'ed\'e0
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 2
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 0
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 20000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 0 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 120000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 0 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 17.05.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 2:14:13
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 140000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'c8\'e2\'e0\'ed\'ee\'e2 \'cf\'e0\'e2\'e5\'eb \'c2\'e0\'eb\'e5\'f0\'fc\'e5\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 2
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 3
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 30000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 10000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 180000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 60000 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 17.05.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 3:30:39
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 280000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'c8\'e2\'e0\'ed\'ee\'e2 \'c0\'f0\'ea\'e0\'e4\'e8\'e9 \'c8\'e2\'e0\'ed\'ee\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 1
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 3
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 3
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 18000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 3000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 90000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 15000 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 17.05.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 3:36:57
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 126000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'c0\'eb\'e5\'ea\'f1\'e5\'e5\'e2 \'c2\'eb\'e0\'e4\'e8\'ec\'e8\'f0 \'de\'f0\'fc\'e5\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 1
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 3
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 0
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 0 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 3000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 0 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 15000 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 05.06.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 19:52:27
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 18000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'c8\'e2\'e0\'ed\'ee\'e2 \'c4\'e5\'ed\'e8\'f1 \'c3\'e5\'ed\'ed\'e0\'e4\'fc\'e5\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 2
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 20000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 5000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 120000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 0 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 05.06.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 20:23:16
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 145000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'cd\'e0\'f3\'ec\'ee\'e2 \'cd\'e8\'ea\'ee\'eb\'e0\'e9 \'c0\'eb\'e5\'ea\'f1\'e0\'ed\'e4\'f0\'ee\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 2
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 20000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 5000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 120000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 0 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 07.06.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 0:54:02
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 145000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'d4\'e5\'e4\'ee\'f2\'ee\'e2 \'c0\'ed\'e4\'f0\'e5\'e9 \'de\'f0\'fc\'e5\'e2\'e8\'f7
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 2
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 3
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 2
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 20000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 5000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 60000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 0 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 08.06.2020
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 4:09:35
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 85000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par \f0\'c8\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'e0\'f2\'e5\'eb\'ff: \'d8\'e5\'f0\'e5\'ec\'e5\'f2\'fc\'e5\'e2\'f1\'ea\'e0\'ff \'cc\'e0\'f0\'e8\'ff \'c5\'e2\'e3\'e5\'ed\'fc\'e5\'e2\'e0
+\par \'ca\'eb\'e0\'f1\'f1 \'f1\'e0\'ec\'ee\'eb\'b8\'f2\'e0: 1
+\par \'ca\'eb\'e0\'f1\'f1 \'ee\'f2\'e5\'eb\'ff: 5
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e2 \'f1\'e5\'ec\'fc\'e5: 1
+\par \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'e5\'f2\'e5\'e9 \'e2 \'f1\'e5\'ec\'fc\'e5: 3
+\par \f1 
+\par \f0\'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 6000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'e4\'e5\'f2\'f1\'ea\'e8\'f5 \'e1\'e8\'eb\'e5\'f2\'ee\'e2 \'e7\'e0 \'f1\'e0\'ec\'ee\'eb\'b8\'f2: 9000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e2\'e7\'f0\'ee\'f1\'eb\'fb\'f5: 60000 \'f0\'f3\'e1.
+\par \'d1\'f2\'ee\'e8\'ec\'ee\'f1\'f2\'fc \'ef\'f0\'ee\'e6\'e8\'e2\'e0\'ed\'e8\'ff \'e4\'e5\'f2\'e5\'e9: 90000 \'f0\'f3\'e1.
+\par \f1 
+\par \f0\'c4\'e0\'f2\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 04.11.2022
+\par \'c2\'f0\'e5\'ec\'ff \'ef\'ee\'ea\'f3\'ef\'ea\'e8: 12:35:14
+\par \f1 
+\par \f0\'c8\'f2\'ee\'e3\'ee: 165000 \'f0\'f3\'e1.
+\par \f1 ********************************************
+\par 
+\par 
+\par }
+ 
